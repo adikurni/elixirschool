@@ -11,7 +11,7 @@
 
 ### Installing Elixir
 
-Installation instructions for each OS can be found on elixir-lang.org in the [Installing Elixir](http://elixir-lang.org/install.html) guide.
+Installation instructions for each OS can be found on elixir-lang.org in the [Installing Elixir](https://elixir-lang.org/install.html) guide.
 
 After Elixir is installed, you can easily find the installed version.
 
